@@ -10,4 +10,10 @@
 
 
 # Fields using PCA for better business understanding are:
-Market Research, Business Government, Technology, Medicine, Biology, Sociology, Psychology and Education.
+### Market Research, Business Government, Technology, Medicine, Biology, Sociology, Psychology and Education.
+
+eg. A statistical report of demographical data.
+### It should be used when we want to know when client chracteristics travel togeather.
+### To help Organisation uncover influences of behavior or preferences.
+### TO Understand Customer Audience better: to meet their needs + discover opportunities where we can offer more products and services + communicate more effectively + Build stronger community.  
+
