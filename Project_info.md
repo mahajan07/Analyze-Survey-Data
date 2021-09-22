@@ -17,3 +17,5 @@ eg. A statistical report of demographical data.
 ### To help Organisation uncover influences of behavior or preferences.
 ### TO Understand Customer Audience better: to meet their needs + discover opportunities where we can offer more products and services + communicate more effectively + Build stronger community.  
 
+This statistic help to find relations
+We check PCA using Pearson product moment coorelation coefficient, r = Summation(Zx Zy) / N. It is accessed by CORREL coefficient in google sheets and measures strength and association between different values. This r can be Negative , Positive and 0 all depending on the slope of line among data points.
