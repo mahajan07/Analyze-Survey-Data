@@ -1,3 +1,5 @@
+# Project Info: Analyze survey data
+
 ## Task 1: Review the fundamentals of Principal Component Analysis (PCA) and combining variables.
 ## Task 2: Identify use cases for PCA and refine variable selection for the project.
 ## Task 3: Access Google Sheets, import survey data, and examine variables that are likely correlated. 
